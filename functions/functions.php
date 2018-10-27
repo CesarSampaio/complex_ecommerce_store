@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect("localhost","root","","ecom_store");
+$db = mysqli_connect("localhost","root","","complex_ecommerce_store");
 
 /// IP address code starts /////
 function getRealUserIp(){
